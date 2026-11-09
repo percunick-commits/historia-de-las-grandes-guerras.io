@@ -1,0 +1,12 @@
+HISTORIA DE LAS GRANDES GUERRAS - Guía de publicación
+
+Archivos: index.html, style.css, app.js y carpeta images/ (6 fotos).
+Es una web estática: no necesita servidor ni base de datos.
+
+Cómo publicarla gratis:
+1. Netlify: entra en app.netlify.com/drop y arrastra la carpeta descomprimida.
+2. GitHub Pages: sube todos los archivos a un repositorio y activa Settings > Pages.
+3. Cloudflare Pages o Vercel: sube la carpeta como proyecto estático.
+
+Para probarla en local: abre index.html con el navegador.
+Traducción ES/NL: botón del menú (textos en app.js, objetos U, W, P, E, Q).
